@@ -34,4 +34,5 @@ alter table class add column gender varchar(10);
 //新增一个 id 字段放在最前面
 alter table class add id int first;
 
-
+//删除表
+dorp table test_table;
